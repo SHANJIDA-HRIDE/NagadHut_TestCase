@@ -1,4 +1,4 @@
-# QKAF
+# NagatHut
 
 QKAF is a event management system website
 
